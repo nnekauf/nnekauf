@@ -18,5 +18,5 @@ Linked in, Blog
 <p align="left">
   
   <img src="https://icongr.am/devicon/javascript-plain.svg?size=128&color=currentColor" alt="js" align="left" width="40" height="40"/>
- 
+ <img src="https://icongr.am/devicon/ruby-original.svg?size=40&color=currentColor" alt="ruby" align="left" width="40" height="40"/>
 </p>
