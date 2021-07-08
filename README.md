@@ -17,6 +17,6 @@ Linked in, Blog
 ### Skills
 <p align="left">
   <img src="<p align="left">
-  <https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor alt="javascript" align="left" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/javascript-plain.svg?size=128&color=currentColor" alt="js" align="left" width="40" height="40"/>
  
 </p>
