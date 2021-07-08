@@ -20,7 +20,7 @@ Linked in, Blog
   <img src="https://icongr.am/devicon/javascript-plain.svg?size=128&color=currentColor" alt="js" align="left" width="40" height="40"/>
  <img src="https://icongr.am/devicon/ruby-original.svg?size=40&color=currentColor" alt="ruby" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/rails-plain-wordmark.svg?size=40&color=000000" alt="rails" align="left" width="40" height="40"/> 
-  <img src="https://icongr.am/devicon/rails-plain-wordmark.svg?size=40&color=000000" alt="react" align="left" width="40" height="40"/> 
+  <img src="https://icongr.am/devicon/react-original-wordmark.svg?size=40&color=000000" alt="react" align="left" width="40" height="40"/> 
   <img src="https://icongr.am/devicon/html5-plain.svg?size=40&color=000000" alt="html" align="left" width="40" height="40"/> 
   <img src="https://icongr.am/devicon/css3-plain-wordmark.svg?size=40&color=000000" alt="css" align="left" width="40" height="40"/> 
   <img src="https://icongr.am/devicon/postgresql-plain-wordmark.svg?size=40&color=000000" alt="sql" align="left" width="40" height="40"/> 
