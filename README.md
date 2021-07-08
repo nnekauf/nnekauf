@@ -4,7 +4,7 @@ Experienced Full Stack Software Engineer skilled in Javascript, Ruby, Rails, HTM
 
 ## Projects
 
-### HoopTown [GitHub](https://github.com/nnekauf/hoop-town)|
+** HoopTown** [GitHub](https://github.com/nnekauf/hoop-town)|
 Street Tournament registration website that connects players and coaches nationwide
 ### Nest [GitHub](https://github.com/nnekauf/project-3-nest)|
 Book review website that fosters conversations between readers and authors
