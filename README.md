@@ -2,12 +2,17 @@
 
 Experienced Full Stack Software Engineer skilled in Javascript, Ruby, Rails, HTML, and CSS with previous experience in video production and video editing for small businesses and national television programs.
 
-## Projects:bow:
+## Projects :bow:
 **HoopTown** [GitHub](https://github.com/nnekauf/hoop-town)|
+
 :basketball: Street Tournament registration website that connects players and coaches nationwide
+
 **Nest** [GitHub](https://github.com/nnekauf/project-3-nest)|
+
 :books: Book review website that fosters conversations between readers and authors
+
 **My NBA** [GitHub](https://github.com/nnekauf/project-4-my-nba)|
+
 :trophy: A Basketball player rating application that allows users to vote on who the top players in the NBA are
 
 ## Find me Here :telescope:
@@ -17,7 +22,7 @@ Experienced Full Stack Software Engineer skilled in Javascript, Ruby, Rails, HTM
 </p>
 <br/>
     
-### Skills:gem:
+## Skills :gem:
     
 <p align="left">
   
