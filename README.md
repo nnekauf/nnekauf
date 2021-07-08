@@ -2,23 +2,23 @@
 
 Experienced Full Stack Software Engineer skilled in Javascript, Ruby, Rails, HTML, and CSS with previous experience in video production and video editing for small businesses and national television programs.
 
-## Projects
+## Projects:bow:
+**HoopTown** [GitHub](https://github.com/nnekauf/hoop-town)|
+:basketball: Street Tournament registration website that connects players and coaches nationwide
+**Nest** [GitHub](https://github.com/nnekauf/project-3-nest)|
+:books: Book review website that fosters conversations between readers and authors
+**My NBA** [GitHub](https://github.com/nnekauf/project-4-my-nba)|
+:trophy: A Basketball player rating application that allows users to vote on who the top players in the NBA are
 
-** HoopTown** [GitHub](https://github.com/nnekauf/hoop-town)|
-Street Tournament registration website that connects players and coaches nationwide
-### Nest [GitHub](https://github.com/nnekauf/project-3-nest)|
-Book review website that fosters conversations between readers and authors
-### My NBA [GitHub](https://github.com/nnekauf/project-4-my-nba)|
-A Basketball player rating application that allows users to vote on who the top players in the NBA are
-
-## Find me Here:
+## Find me Here :telescope:
 <p>
   <a href="https://www.linkedin.com/in/nneka-u/"target="blank"><img align="left" src=https://icongr.am/devicon/linkedin-original.svg?size=30&color=000000" /></a>
   <a href="https://nnekacodes.medium.com/"target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg"  height="30" width="30" /></a>
 </p>
 <br/>
     
-### Skills
+### Skills:gem:
+    
 <p align="left">
   
   <img src="https://icongr.am/devicon/javascript-plain.svg?size=128&color=currentColor" alt="js" align="left" width="40" height="40"/>
