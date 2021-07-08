@@ -12,9 +12,10 @@ Book review website that fosters conversations between readers and authors
 A Basketball player rating application that allows users to vote on who the top players in the NBA are
 
 ## Find me Here:
-<a href="https://www.linkedin.com/in/nneka-u/" src=https://icongr.am/devicon/linkedin-original.svg?size=30&color=000000"   /></a>
-<a href="https://nnekacodes.medium.com/" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg"  height="30" width="30" /></a>
-
+<p>
+  <a href="https://www.linkedin.com/in/nneka-u/" src=https://icongr.am/devicon/linkedin-original.svg?size=30&color=000000" /></a>
+  <a href="https://nnekacodes.medium.com/" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg"  height="30" width="30" /></a>
+</p>
 
 ### Skills
 <p align="left">
